@@ -147,4 +147,6 @@ First of all, let me introduce myself. My name is Felipe Campinho.
 </p>
 
 
-
+ <p align="center">
+Copyright © 2020 Felipe Campinho. All rights reserved.
+  </p>
