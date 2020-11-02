@@ -12,7 +12,9 @@ First of all, let me introduce myself. My name is Felipe Campinho.
  Telecommunications technician with emphasis on developing interactive applications for Digital TV by Federal Center for Technological Education (CEFET-RJ)
 - Always helping companies and friends to deliver the best API to their customers.
 - Enthusiast of everything that can use Javascript with that hint of TypeScript and a lot of free software.
+- (Attention) Young programmer, most of my gitHub projects are my own, before copying, tell me, let's develop together and much better !!
 - (growing and learning). Let's go!
+
 
 **Stack:**  
 <p align="left">
