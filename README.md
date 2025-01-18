@@ -12,7 +12,7 @@ I hold a degree in computer systems from Universidade Federal Fluminense (UFF) a
 
 Currently, I work for Mirakulo develops products and software solutions as a developer on the Globo team. I'm responsible for delivering interactive applications for TV broadcast and developing native components for the GloboPlay platform using JavaScript and React Native. I also work on the Globo player team as a developer, helping to create and maintain the player used by millions of users daily.
 
-I'm always open to new opportunities and challenges. Feel free to reach out if you have any questions or would like to collaborate on a project!
+I'm always open to new opportunities and challenges. Feel free to reach out if you have any questions or would like to collaborate on a project !
 
 
 **Stack:**  
